@@ -1,3 +1,5 @@
+# sum of two numbers
+
 n1 = int(input('Type a value: '))
 n2 = int(input('Another one: '))
 s = n1 + n2
