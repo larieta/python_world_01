@@ -1,4 +1,3 @@
-
 r = float(input('how much money do you have on your wallet? R$'))
 d = r/4.99
 
