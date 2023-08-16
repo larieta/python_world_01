@@ -1,4 +1,4 @@
-n = int(input('imagine a value in meters! now, type it:' ))
+n = float(input('imagine a value in meters! now, type it:' ))
 
 c = n*100
 m = n*1000
